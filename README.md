@@ -1,0 +1,2 @@
+# DAI
+Decentralised Artificial Intelligence
